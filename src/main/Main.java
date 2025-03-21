@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package main;
-import core.Person;
+import Core.Person;
 /**
  *
  * @author Art_Magnus

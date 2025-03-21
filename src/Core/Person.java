@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package core;
+package Core;
 
 /**
  *
  * @author Jose
  */
-public class Person {
+public class Person{
     private int id;
     private String name;
     private int age;
@@ -36,8 +36,4 @@ public class Person {
     public String toString() {
         return "Person{" + "id=" + id + ", name=" + name + ", age=" + age + '}';
     }
-    
-    
-   
-    
 }
